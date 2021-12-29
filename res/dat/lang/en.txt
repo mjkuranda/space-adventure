@@ -1,0 +1,30 @@
+Space Adventure
+Start Game
+Settings
+High Scores
+Exit
+Points
+Durability
+Game Over
+Score
+The best score
+View
+Back to the Menu
+Reset
+Go to HighScore
+English
+Polski
+Author
+Choose the language
+Place
+Name
+Date
+Cannon
+Loading Bar
+Shocks indicators
+Input your nickname
+'Caps Lock' is switch off
+'Caps Lock' is switch on
+Start the game
+you gained
+points
